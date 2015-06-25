@@ -3,7 +3,7 @@
 # With the help of Evan Soloman, this version plays nice with Slack.
 #
 # Dependencies:
-# None
+# checksearch.sh bash script (included in repository)
 #
 # Configuration
 # Change the script if you have to execute a different command.
